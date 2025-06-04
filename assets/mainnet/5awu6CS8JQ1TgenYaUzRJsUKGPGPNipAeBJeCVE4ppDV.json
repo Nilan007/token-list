@@ -3,7 +3,7 @@
   "address": "5awu6CS8JQ1TgenYaUzRJsUKGPGPNipAeBJeCVE4ppDV",
   "symbol": "USDT",
   "name": "Tether USD",
-  "decimals": 6,
+  "decimals": 9,
   "logoURI": "https://raw.githubusercontent.com/<your-github-username>/token-list/main/assets/mainnet/5awu6CS8JQ1TgenYaUzRJsUKGPGPNipAeBJeCVE4ppDV/logo.png",
   "tags": [
     "stablecoin"
